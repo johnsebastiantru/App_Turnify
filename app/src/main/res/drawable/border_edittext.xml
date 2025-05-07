@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<border_edittext xmlns:android="http://schemas.android.com/apk/res/android">
+    android:background="@drawable/border_edittext"
+    android:backgroundTint="@null"
+    android:padding="12dp"
+</border_edittext>
